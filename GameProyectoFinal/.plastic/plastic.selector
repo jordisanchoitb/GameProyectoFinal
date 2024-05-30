@@ -1,4 +1,4 @@
 repository "GameProyectoFinal@Arcade_Studio@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"  
+     
